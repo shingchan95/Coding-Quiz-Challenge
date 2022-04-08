@@ -5,7 +5,7 @@
             event.preventDefault();
             var initial=document.getElementById("initials").value;
             
-            window.location = "./Assets/highscores.html"
+            window.location = "assets/highscores.html"
             window.localStorage.setItem("initial",JSON.stringify(initial));
             window.localStorage.setItem("score",JSON.stringify(score));
             
