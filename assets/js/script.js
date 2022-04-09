@@ -24,6 +24,8 @@ function startGame(){
     countdown()
     showQuestions()
     submitTing()
+    clearBut()
+    
     
 };
 
@@ -44,6 +46,7 @@ function countdown() {
         counter.textContent= 0;
         finalScore.textContent += score;
         console.log(score)
+        
        
 
     }
@@ -153,5 +156,3 @@ function showQuestions(){
         
         
         
-//questionChoices.addEventListener("click",startGame)
-//console.log(questions[i].answer=== questions[i].choices[2])
