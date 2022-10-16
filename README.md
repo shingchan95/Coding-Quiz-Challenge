@@ -15,4 +15,3 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
-https://shingchan95.github.io/week4-coursework/
