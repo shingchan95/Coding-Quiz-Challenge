@@ -1,5 +1,7 @@
 # Coding Quiz Challenge
 
+## DESCRIPTION
+This application provides a simple coding quiz challenge. 
 
 ## USAGE
 ```
